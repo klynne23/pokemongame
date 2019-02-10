@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee');
+
+.pokemonRow {
+  justify-content: center;
+  margin-top: 0px;
+}
+
+.clickMessage {
+  justify-content: center;
+  margin-top: 0px;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.clickMessage p {
+  margin-bottom: 0px;
+  color: white;
+  font-family: "Bungee";
+  font-size: 1.5em;
+}
