@@ -1,6 +1,6 @@
 # Pokemon Clicker Game
 
-This application displays 10 images and challenges the user to try and click on all the images without repeating any... however the images will randomly shuffle after each click!
+This application displays 15 images and challenges the user to try and click on all the images without repeating any... however the images will randomly shuffle after each click!
 
 # Build With
 * React
